@@ -10,22 +10,28 @@ const portfolioConfig = {
   currentlyLearning: ["Git", "GitHub"], // <-- comma is important
 
   // === Projects ===
-  projects: [
-    {
-      title: "Photography Portfolio",
-      description:
-        "A showcase of my best photography work, organized by theme and category.",
-      tags: ["Photography", "Creative"],
-    },
-  ],
+ projects: [
+  {
+    title: "Hacathon",
+    description: "new thing",
+    tags: ["Coding", "Creative"],  // also fixed spelling
+  },
+  {
+    title: "Photography Portfolio",
+    description: "A showcase of my best photography work, organized by theme and category.",
+    tags: ["Photography", "Creative"],
+  },
+],
 
   // === Social Media Links ===
-  social: {
-    github: "https://github.com/ananyasarkar7"",
-    linkedin: "https://www.linkedin.com/in/ananya-sarkar-9376ba31a/",
-    twitter: "",
-    instagram: "",
-  },
+  // === Social Media Links ===
+social: {
+  github: "https://github.com/ananyasarkar7",
+  linkedin: "https://www.linkedin.com/in/ananya-sarkar-9376ba31a/",
+  twitter: "",
+  instagram: "",
+},
+
 };
 
 export default portfolioConfig; // or: module.exports = portfolioConfig;
