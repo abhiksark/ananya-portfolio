@@ -28,8 +28,8 @@ const portfolioConfig = {
 social: {
   github: "https://github.com/ananyasarkar7",
   linkedin: "https://www.linkedin.com/in/ananya-sarkar-9376ba31a/",
-  twitter: "",
-  instagram: "",
+  twitter: "https://www.linkedin.com/in/ananya-sarkar-9376ba31a/",
+  
 },
 
 };
